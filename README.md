@@ -1,0 +1,20 @@
+## M1621-user 7.0 NRD90M 1594295075 release-keys
+- Manufacturer: meizu
+- Platform: mt6755
+- Codename: M5Note
+- Brand: Meizu
+- Flavor: full_mz6755_66_n-user
+- Release Version: 7.0
+- Kernel Version: 
+- Id: NRD90M
+- Incremental: 1594295075
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: zh-CN
+- Screen Density: 480
+- Fingerprint: Meizu/M1621/M1621:7.0/NRD90M/1594295075:user/release-keys
+- OTA version: 
+- Branch: M1621-user-7.0-NRD90M-1594295075-release-keys
+- Repo: meizu_m5note_dump

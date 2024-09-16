@@ -1,0 +1,6 @@
+service mzperfctrl /system/bin/mzperfctrl
+    class late_start
+    user root
+    group root
+    seclabel u:r:mzperfctrl:s0
+

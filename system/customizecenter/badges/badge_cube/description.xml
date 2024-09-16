@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MEIZU_BADGE identifier="com.meizu.badge.dots" versionCode="100" versionName=""  badgeVersion="1" mzos="6">
+    <info locale="" name="点阵" author="" description="" date="2017-05-16" />
+    <info locale="en_US" name="Dots" author="" description="" date="" />
+</MEIZU_BADGE>

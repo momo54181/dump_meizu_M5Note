@@ -1,0 +1,9 @@
+# Flyme yfy@System.Input add for vice screen gesture {@
+key 624 VICEDOUBLETAP
+key 625 VICEONECETAP
+key 626 VICELONGPRESS
+key 640 VICESWIPEXLEFT
+key 641 VICESWIPEXRIGHT
+key 642 VICESWIPEYUP
+key 643 VICESWIPEYDOWN
+# @}
